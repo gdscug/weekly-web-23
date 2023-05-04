@@ -1,3 +1,5 @@
+import AnimalApiSource from '../../data/animal-api-source';
+
 const Animal = {
   async render() {
     return `
@@ -7,6 +9,10 @@ const Animal = {
 
   async afterRender() {
     // Fungsi ini akan dipanggil setelah render()
+    const animals = await AnimalApiSource.listAnimals();
+    console.log(animals);
+
+    // TODO: tampilkan animals di dalam DOM
   },
 };
 

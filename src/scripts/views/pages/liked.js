@@ -1,3 +1,5 @@
+import AnimalApiSource from '../../data/animal-api-source';
+
 const Liked = {
   async render() {
     return `
