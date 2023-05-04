@@ -33,6 +33,7 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
+    "idb": "^7.1.1",
     "regenerator-runtime": "^0.13.11"
   }
 }
