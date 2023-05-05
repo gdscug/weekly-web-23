@@ -1,6 +1,8 @@
 # weekly-web-23
 Web Weekly Class, we will learn about PWA while building your own app in a fun learning environment. Let's sign yourself up and start your fun learning experience with us!🙌🏼
 
+https://dscug.notion.site/Web-Frontend-Learning-Starter-Pack-ee88424dc4284bfa916a702fbf6ac57a
+
 ### Install
 npm run install
 ### Development
